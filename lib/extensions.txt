@@ -114,6 +114,7 @@
 .android
 .ao
 .apartments
+.app
 .aq
 .aquarelle
 .ar
